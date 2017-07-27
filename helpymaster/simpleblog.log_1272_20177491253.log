@@ -1,0 +1,8 @@
+*** SIGUSR2 not implemented, signal based restart unavailable!
+*** SIGUSR1 not implemented, signal based restart unavailable!
+*** SIGHUP not implemented, signal based logs reopening unavailable!
+Puma starting in single mode...
+* Version 3.9.1 (ruby 2.2.6-p396), codename: Private Caller
+* Min threads: 5, max threads: 5
+* Environment: development
+ERROR: No application configured, nothing to run
